@@ -1,0 +1,11 @@
+{
+  "name": "yelp-scraper",
+  "version": "1.0.0",
+  "description": "Yelp business data scraper",
+  "dependencies": {
+    "apify": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^19.0.0",
+    "cheerio": "^1.0.0"
+  }
+}
